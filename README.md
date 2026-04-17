@@ -38,7 +38,11 @@ cloud cover or daylight conditions.
 > Maize polygon collection is in progress. Maize is primarily a Kharif crop
 > and had minimal presence during the Rabi 2023–24 study period. Maize
 > training data will be added in the next update using Kharif season imagery.
-
+![Status](https://img.shields.io/badge/Status-Classification%20Complete-brightgreen)
+![Accuracy](https://img.shields.io/badge/Overall%20Accuracy-98.77%25-blue)
+![Kappa](https://img.shields.io/badge/Kappa-0.98-blue)
+![Platform](https://img.shields.io/badge/Platform-Google%20Earth%20Engine-orange)
+![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
 ---
 
 ## Data Source
